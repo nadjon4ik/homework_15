@@ -5,7 +5,6 @@
     <title>Development</title>
   <script defer src="runtime.js"></script><script defer src="main.js"></script></head>
   <body>   
-  <button><a href="https://github.com/nadjon4ik/cursor-education/tree/main/homework_15"> Виконання</a></button>
     <p>Виведення роботи №10. Події (generateBlocks):</p>
     <div class="container">
       
